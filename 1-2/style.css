@@ -1,12 +1,12 @@
-.complete{
+.main{
     display: flex;
 }
 
-h1{
+.title-text{
     text-align: center;
 }
 
-.box1{
+.box one{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 400px;
     height: 170px;
@@ -15,7 +15,7 @@ h1{
     padding-right: 5px;
 }
 
-.box2{
+.box two{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 400px;
     height: 400px;
@@ -25,7 +25,7 @@ h1{
 
 }
 
-.box3{
+.box three{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 400px;
     height: 90px;
@@ -35,7 +35,7 @@ h1{
 
 }
 
-.box4{
+.box four{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 400px;
     height: 400px;
