@@ -1,0 +1,49 @@
+.header{
+    background-color:#D9D9D9;
+    padding: 12px;
+    position:relative;
+    width: 750px;
+    height: 550px;
+    top: 50px;
+    left: 20px;
+}
+
+.red{
+    background-color: #FF0000;
+    width: 150px;
+    height: 150px;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+.orange{
+    background-color: #FFA600;
+    width: 150px;
+    height: 150px;
+    margin-left: 590px;
+    margin-top: -150px;
+   
+}
+.green{
+    background-color: #00FF44;
+    width: 150px;
+    height: 150px;
+    margin-top: 235px;
+    margin-left: 8px;
+
+}
+.blue{
+    position: relative;
+    background-color: #00AAFF;
+    width: 150px;
+    height: 190px;
+    margin-left: 590px;
+    margin-top: -190px;
+}
+.small{
+    position: absolute;
+    background-color: #00FF44; 
+    width: 100px;
+    height: 40px;
+    margin-left: 615px;
+    margin-top: -90px;
+}

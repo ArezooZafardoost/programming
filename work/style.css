@@ -1,0 +1,13 @@
+.box{
+    display: flex;
+    justify-content:space-around;
+    background-color:royalblue;
+    padding: 16px;
+
+}
+.item{
+    background-color:rgb(205, 112, 218);
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
